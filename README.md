@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RushikeshNaikwadi.
 - 👀 I’m interested in Problem Solving and Mobile Application Development.
 - 🌱 I’m currently learning Flutter.
-- 💞️ I’m looking to collaborate with orgnization which works in field of Mobile Application Development.
+- 💞️ I’m looking to collaborate with orgnization which works in field of Mobile Application Development using Flutter.
 - 📫 You can reach out to me at https://www.linkedin.com/in/rushikesh-naikwadi-915b3b1b1/.
 
 <!---
